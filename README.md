@@ -1,0 +1,2 @@
+# HelloTypeScript
+typescript学习
